@@ -22,11 +22,10 @@ pip install transformers torch
 ```bash
 python gpt2_gui.py
 ```
+Dark-themed UI built with Tkinter. Select a model, enter a prompt, and click Generate.
 
 Or for a minimal raw output demo:
 
 ```bash
 python gpt2.py
 ```
-
-Dark-themed UI built with Tkinter. Select a model, enter a prompt, and click Generate.
